@@ -1,0 +1,8 @@
+txt
+rar
+doc
+7z
+docx
+waw
+pdf
+zip
